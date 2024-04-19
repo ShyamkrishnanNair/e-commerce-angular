@@ -12,7 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Academic Context
 
-This project was part of my academic projects during my full-stack web development course at Suven Consultants. It provided an opportunity to apply the concepts and skills learned during the course to a real-world project scenario, helping to solidify my understanding of web development principles and practices.
+This project was part of my academic projects during my Full Stack Web Development course at Suven Consultants & Technology Pvt. Ltd, Mumbai. It provided an opportunity to apply the concepts and skills learned during the course to a real-world project scenario, helping to solidify my understanding of web development principles and practices.
 
 ## Technologies Used
 
